@@ -4,6 +4,6 @@ These programs are designed to be compiled with this line in the GCC compiler in
 
 gcc -Wall -ansi -o program_name.exe source_code_file.c -lm
 
-Then these program will be run with this command in a Linux environment:
+Then to run the compiled programs, use this command in a Linux environment:
 
 ./program_name.exe

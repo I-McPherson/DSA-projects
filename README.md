@@ -1,17 +1,10 @@
-# projects
-My personal and school projects.
-This repository is for my Data Structures and Algorithms class.
+#DSA-projects
+This repository is for my Data Structures and Algorithms class projects.
 
-This is for a job portfolio once that time comes.
+These programs are designed to be compiled with this line in the GCC compiler in a Linux environment:
 
-These programs are designed to be compiled with this line in GCC:
+gcc -Wall -ansi -o program_name.exe source_code_file.c -lm
 
-gcc -Wall -ansi -oprogramname.exe programname.c -lm
+Then these program will be run with this command in a Linux environment:
 
-Then are to run with:
-
-./programname.exe
-
-on Linux.
-
-Thanks for downloading!
+./program_name.exe

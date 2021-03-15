@@ -40,7 +40,7 @@
 
 /**********************************************************************/
 /*                        Symbolic Constants                          */
-/**********************************************************************/ /* Put these into alphabetical order */
+/**********************************************************************/
 #define COURSE_NUMBER     "CS227" /* PCC assigned course number       */
 #define HEADER_ALLOC_ERR  1       /* Header memory allocation error   */
 #define ID_ALLOC_ERR      3       /* Memory allocation error for each */

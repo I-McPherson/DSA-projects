@@ -1,6 +1,6 @@
 /**********************************************************************/
 /*                                                                    */
-/* Program Name: program6 - Demonstrate various search algorithms     */
+/* Program Name: program6 - Maintain a list of student IDs            */
 /* Author:       Ian McPherson                                        */
 /* Installation: Pensacola Christian College, Pensacola, Florida      */
 /* Course:       CS227, Data Structures and Algorithms                */
